@@ -1,0 +1,26 @@
+{
+  "name": "exam-platform",
+  "version": "1.0.0",
+  "description": "Online Exam Platform with Admin Backend",
+  "type": "module",
+  "scripts": {
+    "dev": "echo 'Run in Figma Make'",
+    "build": "echo 'Build in Figma Make'",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "lucide-react": "latest",
+    "sonner": "^2.0.3",
+    "recharts": "latest",
+    "react-hook-form": "^7.55.0",
+    "motion": "latest",
+    "date-fns": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.0"
+  }
+}
